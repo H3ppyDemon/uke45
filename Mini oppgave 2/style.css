@@ -1,0 +1,25 @@
+.sec1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: orange;
+    height: 100px;
+    gap: 0.75rem;
+}
+
+div{
+    background-color: darkgreen;
+    color: #ffff;
+}
+
+.elem1{
+    flex: 1;
+}
+
+.elem2{
+    flex: 2;
+}
+
+.elem3{
+    flex: 7;
+}
